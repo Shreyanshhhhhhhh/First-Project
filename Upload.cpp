@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello World";  //This is Newely Added
+    while (true)
+    {
+        cout<<"Hello World";
+    }
+    
     return 0;
 }
